@@ -50,7 +50,7 @@ There are no prerequisites for this course for undergrads. Graduate students nee
 ### Requirements Satisfied
 
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
-- 17.445/17.446 can be applied toward a {{% resource_link "5c28fed0-715f-4a81-8748-371107734884" "Bachelor of Science in Political Science" %}}, a {{% resource_link "369ac566-971a-4cc4-a148-a423c53249d2" "Master of Science in Political Science" %}}, or a {{% resource_link "3590eb56-87b8-41d9-a203-4f6acbc6d989" "PhD in Political Science" %}}, but is not required.
+- 17.445/17.446 can be applied toward a {{% resource_link "bdeefb25-f211-4eea-854c-e86041be789e" "Bachelor of Science in Political Science" %}}, a {{% resource_link "3f787072-6ff8-4267-bf8d-262cea0f24a9" "Master of Science in Political Science" %}}, or a {{% resource_link "b80037ea-4a37-46e8-9e7c-3710a5fdf7fa" "PhD in Political Science" %}}, but is not required.
 
 ### Offered
 
